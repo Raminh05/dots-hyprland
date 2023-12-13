@@ -25,8 +25,8 @@
  <details> 
   <summary>Bragging</summary>
      
-   - [`summer-gruv`](https://github.com/end-4/dots-hyprland/tree/summer-gruv) branch: winner of Hyprland ricing competition Summer 2023, now shown in the [Hyprland repo](https://github.com/hyprwm/hyprland#gallery) and [Hyprland Wiki](https://wiki.hyprland.org/Configuring/Example-configurations/)
-   - [`windoes`](https://github.com/end-4/dots-hyprland/tree/windoes) is a "Tasty rice" [on r/unixporn](https://www.reddit.com/r/unixporn/comments/13zdhqd/hyprland_windows_rice_with_too_much_eww_with_blur/)
+   - summer-themed `hybrid` branch (note: now actually in `archive` branch): winner of Hyprland ricing competition Summer 2023, now shown in the [Hyprland repo](https://github.com/hyprwm/hyprland#gallery) and [Hyprland Wiki](https://wiki.hyprland.org/Configuring/Example-configurations/)
+   - `windoes` branch (note: also in `archive` branch now): is a "Tasty rice" [on r/unixporn](https://www.reddit.com/r/unixporn/comments/13zdhqd/hyprland_windows_rice_with_too_much_eww_with_blur/)
 </details>
 
 # 👀 Styles
