@@ -31,7 +31,8 @@
 
 # 👀 Styles
 
-_Click the images for video showcases with animations! (except illogical\_impulse)_
+- For instructions, check the branch readme and the [wiki](https://github.com/end-4/dots-hyprland/wiki).
+- note: m3ww and stuff below have showcase videos. click image to view.
 
 ### [illogical_impulse](https://github.com/end-4/dots-hyprland/tree/illogical-impulse)
    <a href="https://github.com/end-4/dots-hyprland/tree/illogical-impulse">
@@ -72,18 +73,11 @@ _Click the images for video showcases with animations! (except illogical\_impuls
 
 ---
 
-# 🔧 General instructions
- - Don't use the main branch! Use one of the above listed ones.
- - See the wiki for further instructions
- 
----
-
 # 🙏 Attribution
- - Thank you fufexan (who also thanks a lot more people) for his guidance and a simple, clean [eww config](https://github.com/fufexan/dotfiles) (good start for learning eww on hyprland btw)
- - Copied a lot from [Aylur's dotfiles](https://github.com/Aylur/dotfiles)
- - Thanks to the people at the Hyprland discord server for their inspiration
+ - AGS: [Aylur's config](https://github.com/Aylur/dotfiles)
+ - EWW: [fufexan's config](https://github.com/fufexan/dotfiles) (he thanks more people there btw)
  - AI bots for providing useful examples
- - Maybe more, but I might not remember them all.. Still, thanks.
+ - Open source contributors for their software and ricers for their insipration (would be a too long list to put here!)
 
 # 🌟 stonks
 - _thank you_
