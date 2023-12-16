@@ -29,21 +29,14 @@
    - `windoes` branch (note: also in `archive` branch now): is a "Tasty rice" [on r/unixporn](https://www.reddit.com/r/unixporn/comments/13zdhqd/hyprland_windows_rice_with_too_much_eww_with_blur/)
 </details>
 
-# 👀 Styles
+# 👀 Styles & installation
 
-- For instructions, check the branch readme and the [wiki](https://github.com/end-4/dots-hyprland/wiki).
-- note: m3ww and stuff below have showcase videos. click image to view.
+- For **installation instructions**, check the branch readme and the [wiki](https://github.com/end-4/dots-hyprland/wiki).
 
 ### [illogical_impulse](https://github.com/end-4/dots-hyprland/tree/illogical-impulse)
-   <a href="https://github.com/end-4/dots-hyprland/tree/illogical-impulse">
-    <img src="https://github.com/end-4/dots-hyprland/assets/97237370/66510836-9130-42f4-b4f9-929057b0a3ff" alt="illogical impulse">
-   </a>
-   <a href="https://github.com/end-4/dots-hyprland/tree/illogical-impulse">
-    <img src="https://github.com/end-4/dots-hyprland/assets/97237370/d4c37041-9f3a-4a5f-a8c6-b1ac6edb808b" alt="illogical impulse">
-   </a>
-   <a href="https://github.com/end-4/dots-hyprland/tree/illogical-impulse">
-    <img src="https://github.com/end-4/dots-hyprland/assets/97237370/24643c02-660a-4bed-8772-c98b08e62ac1" alt="illogical impulse">
-   </a>
+<img src="https://github.com/end-4/dots-hyprland/assets/97237370/66510836-9130-42f4-b4f9-929057b0a3ff" alt="illogical impulse">
+<img src="https://github.com/end-4/dots-hyprland/assets/97237370/d4c37041-9f3a-4a5f-a8c6-b1ac6edb808b" alt="illogical impulse">
+<img src="https://github.com/end-4/dots-hyprland/assets/97237370/24643c02-660a-4bed-8772-c98b08e62ac1" alt="illogical impulse">
 
 
 > [!WARNING]
@@ -52,6 +45,8 @@
 >   - Currently, they do NOT work (see [#99](https://github.com/end-4/dots-hyprland/issues/99))
 >   - The pics are here mainly for your viewing pleasure
 >   - The files are still available, feel free to grab them from [`archive`](https://github.com/end-4/dots-hyprland/tree/archive) branch if you're willing to see some spaghetti and troubleshoot
+
+- stuff below have showcase videos. click image to view.
 
 ### [m3ww](https://github.com/end-4/dots-hyprland/tree/archive)
    <a href="https://streamable.com/85ch8x">
